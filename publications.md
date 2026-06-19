@@ -36,7 +36,7 @@ PDF links point to the original NJU `articles/` files. If the PDF archive is lat
 
 39. X. Guo, [*Determinants of trigonometric functions and class numbers*](http://maths.nju.edu.cn/~guoxj/articles/LAA2022.pdf), Linear Algebra and its Applicationssss 653 (2022), 33-43.
 
-38. H. Zheng, X. Guo and H. Qin, [*The Mahler measure of $ (x+1/x)(y+1/y) (z+1/z)+\sqrt{k}$*](http://maths.nju.edu.cn/~guoxj/articles/ERA.pdf), Electronic Research Archive 28 (2020), 103-125..
+38. H. Zheng, X. Guo and H. Qin, [*The Mahler measure of $ (x+1/x)(y+1/y) (z+1/z)+\sqrt{k}$*](http://maths.nju.edu.cn/~guoxj/articles/ERA.pdf), Electronic Research Archive 28 (2020), 103-125.
 
 37. X. Guo and Y. Peng, [*Non-vanishing theta values of characters with special prime conductors*](http://maths.nju.edu.cn/~guoxj/articles/JMAA.pdf), Journal of Mathematical Analysis and Applications 487 (2020) 123971, 1-10.
 
