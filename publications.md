@@ -12,7 +12,7 @@ permalink: /publications/
 
 # Publications
 
-
+<!--
 
 This page is a GitHub-friendly backup of Xuejun Guo's publication list.
 
@@ -20,7 +20,7 @@ This page is a GitHub-friendly backup of Xuejun Guo's publication list.
 
 PDF links point to the original NJU `articles/` files. If the PDF archive is later copied into this GitHub repository, the links can be changed from absolute NJU URLs to local `/articles/...` paths.
 
-
+-->
 
 45. Z. Tao and X. Guo, [*CM points, class numbers, and the Mahler measures of $x^3 +y^3 +1-kxy$*](http://maths.nju.edu.cn/~guoxj/articles/MC.pdf), Math. Comp. 94 (2025), 425-446.
 
